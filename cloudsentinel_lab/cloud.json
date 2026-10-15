@@ -1,0 +1,13 @@
+{
+  "lab_case": "sentinel_lab_v1",
+  "fixture_notice": "Synthetic nonfunctional values for an authorized security detector test. No real service or account is associated with these values.",
+  "huaweicloud": {
+    "access_key_id": "Q8W4E6R2T9Y1U7I5O3P0",
+    "secret_access_key": "z7Q3w9E1r5T8y2U6i4O0p9A3s7D1f5G8"
+  },
+  "oauth": {
+    "client_id": "cloudsentinel-lab-app",
+    "client_secret": "m8N2b6V4c9X3z7L5k1J0h6G8f2D4s9A3"
+  },
+  "database_url": "postgresql://sentinel_lab:p9Q3r7S1t5U8v2W6@database.invalid:5432/lab"
+}
